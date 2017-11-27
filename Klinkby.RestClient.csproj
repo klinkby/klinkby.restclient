@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <Title>Klinkby.RestClient</Title>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Description>Scalable REST client using Newtonsoft serializer and async HttpClient</Description>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/klinkby/klinkby.restclient/master/LICENSE.md</PackageLicenseUrl>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
